@@ -14,6 +14,16 @@
     "categories": {
       "auth": {
         "s3uploaderexistbucke0bd6c26b": {}
+      },
+      "api": {
+        "s3uploaderexistbucke": {}
+      },
+      "storage": {
+        "s3uploaderexistbucke8c6f1d23": {
+          "bucketName": "thisismytestingbucketeverything",
+          "region": "us-east-1"
+        },
+        "s3e6b49df5": {}
       }
     }
   }

@@ -1,0 +1,18 @@
+{
+  "resourceName": "s3e6b49df5",
+  "policyUUID": "e6b49df5",
+  "bucketName": "s3uploaderexistbucke3a733ae5ff304fa78a9515585c1",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
